@@ -1,0 +1,9 @@
+{
+  "name": "four-month-anniversary-root",
+  "private": true,
+  "scripts": {
+    "install": "cd anniversary-4-months && npm install",
+    "build": "cd anniversary-4-months && npm run build",
+    "dev": "cd anniversary-4-months && npm run dev"
+  }
+}

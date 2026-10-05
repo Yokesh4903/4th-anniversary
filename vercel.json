@@ -1,0 +1,6 @@
+{
+  "framework": "vite",
+  "installCommand": "cd anniversary-4-months && npm install",
+  "buildCommand": "cd anniversary-4-months && npm run build",
+  "outputDirectory": "anniversary-4-months/dist"
+}
